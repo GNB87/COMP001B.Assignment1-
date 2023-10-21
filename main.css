@@ -9,3 +9,8 @@ body {
   p {
     color: brown;
   }
+  footer {
+    text-align: center;
+    padding: 3px;
+    color: brown;
+  }
