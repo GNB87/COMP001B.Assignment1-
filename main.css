@@ -14,3 +14,7 @@ body {
     padding: 3px;
     color: brown;
   }
+
+  img {
+    size-adjust: 30px;
+  }
